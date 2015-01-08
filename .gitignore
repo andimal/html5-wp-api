@@ -1,0 +1,15 @@
+.htaccess
+node_modules/
+assets/vendor/
+.sass-cache
+main.min.css
+main.min.css.map
+Movefile
+wp-content/*.sql
+.DS_Store
+site.js
+**/*.min.js
+wp-config.php
+uploads/
+.jshintrc
+.editorconfig
